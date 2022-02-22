@@ -1,0 +1,422 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Brief account of the proceedings of the French clergy, in taking away the Pope's usurp'd supremacy, shewing by what steps or degrees the same was effected by way of introduction to the Pope's letter, written to the clergy of France, 11th of Apr. 1682, and their protestarion [i.e. protestation] thereupon, 6th of May following, the letter condemning, and the protestation justifying and ratifying the said proceedings : both which are here published in Latine ... and in English ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29408</idno>
+            <idno type="STC">Wing B4516</idno>
+            <idno type="STC">ESTC R14707</idno>
+            <idno type="EEBO-CITATION">11715196</idno>
+            <idno type="OCLC">ocm 11715196</idno>
+            <idno type="VID">48314</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48314)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 16:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Brief account of the proceedings of the French clergy, in taking away the Pope's usurp'd supremacy, shewing by what steps or degrees the same was effected by way of introduction to the Pope's letter, written to the clergy of France, 11th of Apr. 1682, and their protestarion [i.e. protestation] thereupon, 6th of May following, the letter condemning, and the protestation justifying and ratifying the said proceedings : both which are here published in Latine ... and in English ...</title>
+               </titleStmt>
+               <extent>12, 1-22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pages 1-22 have two columns to the page, one in Latin, one in English.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>"The Popes letter to the clergy of France" (p. 1-13, 2nd count), and "The protestation of the Gallican clergy" (p. 15-22).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gallicanism.</term>
+               <term>Papacy --  History --  1566-1799.</term>
+               <term>France --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48314:1"/>
+            <pb facs="tcp:48314:1" rendition="simple:additions"/>
+            <p>A Brief ACCOUNT Of the PROCEEDINGS OF THE French Clergy, In taking away the POPE's Uſurp'd SUPREMACY, Shewing by what Steps or Degrees the ſame was Effected.</p>
+            <p>By way of Introduction to the Pope's Letter, written to the Clergy of <hi>France</hi> 11th of <hi>Apr.</hi> 1682. and their Proteſtarion thereupon, 6th of <hi>May</hi> following; the Letter Condemning, and the Proteſtation Juſ<g ref="char:EOLhyphen"/>tifying and Ratifying the ſaid Proceedings.</p>
+            <p>Both which are here Publiſhed in Latine, to gratifie the Curioſity of Scholars, and in Engliſh for the Satisfaction of other Readers.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Simmons,</hi> at the Prince's Amrs in <hi>Ludgate Street.</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:48314:2"/>
+            <pb n="3" facs="tcp:48314:2"/>
+            <head>A Brief Account of the Proceedings of the French Clergy, in taking away the Pope<hi>'s</hi> Supremacy, <hi>&amp;c.</hi> By way of Introduction to the following Letter, and Proteſtation.</head>
+            <p>FOR the better underſtanding of ſome Paſſages in the Letter, and Proteſtation, it will be neceſſary to acquaint you with the Original and Progreſs of that conteſt, which has ſo long continued between the Pope, and the French King, and Clergy, of which if you deſire to be in<g ref="char:EOLhyphen"/>form'd fully, and at large, I muſt Refer you to a Book, Publiſhed laſt Year, Entitled. <hi>The verbal Proceſs, or Proceedings of the Extraordinary Aſſembly of the Arch-Biſhops and Biſhops held at</hi> Paris <hi>in March</hi> 1680/1, <hi>and May</hi> 1681, <hi>Tranſlated out of the Original French Papers.</hi> The ſubſtance of which take as fol<g ref="char:EOLhyphen"/>lows.</p>
+            <p>The late Pope's having denied the King's Right, called in French <hi>Regale,</hi> and in Latine <hi>Regalia,</hi> (which conſiſts in his receiving the Profits of vacant Biſhop<g ref="char:EOLhyphen"/>ricks in <hi>France,</hi> and in the Collation of Dignities, and Prehends, during a vocancy) and Claiming the ſame as their Right, eſpecially in four Provinces of that Kingdom; the preſent French King in the Year 1673, cauſed a Declaration to be Publiſh'd, and a<g ref="char:EOLhyphen"/>nother in 1675, in which he aſſerts his Right of <hi>Regalia,</hi> as well in the four Provinces, as in all other parts of <hi>France,</hi> and Commands his Officers, ap<g ref="char:EOLhyphen"/>pointed to Collect the Profits of vacant Benefices,
+<pb n="4" facs="tcp:48314:3"/>to execute their Office in all Places, without di<g ref="char:EOLhyphen"/>ſtinction, as Occaſions ſhould offer, which was done accordingly, and the Declarations were obeyed by all the Prelats, except the Biſhop of <hi>Pomiez,</hi> who continued a Zealous Stickler for the Pope, agaiſt, the King in this Point, to the time of his Death.</p>
+            <p>This difference between the Pope, and the King, and Clergy (who oppoſed the Pope, as well upon their own Account, as the King's, as well ſhall ſee anon) ſtill increaſing, at laſt the Clergy, by their Agents Ge<g ref="char:EOLhyphen"/>neral, begg'd leave of the King in 1680/1. That ſuch Prelats as were then at <hi>Paris,</hi> about the affairs of their Dioceſes, might meet and conſult, for the puting a ſpeedy ſtop to ſome ſiniſter practiſes of the Court of <hi>Rome,</hi> repugnant to the tenour of the Canons, the Liberties of the Gallican Church, and the Laws of the Kingdom; which Requeſt being granted, an Aſ<g ref="char:EOLhyphen"/>ſembly conſiſting of ſix Arch-Biſhops, and 35. Bi<g ref="char:EOLhyphen"/>ſhops was held at <hi>Paris</hi> in the months of March 1680/1. and May. 1681.</p>
+            <p>To this Aſſembly the ſaid Agents of the Clergy preſented a Memorial in which they Complain that divers Letters (or Briefs) had been diſperſ'd, in the name of Pope <hi>Innocent</hi> XI. containing many things very Prejudicial to the <hi>Regalia,</hi> and to the Gallican Church, <hi>viz.</hi> The Letter of the 18th of <hi>October</hi> 1680, which comdemns to the flames, the Sentence of the Parliament of <hi>Paris,</hi> paſt the 24th of <hi>September</hi> 1680, wherein are explained the Laws of the Kingdom, in defence of the Authority of the Biſhops.</p>
+            <p>The Letters to the King, to hinder the Execution of the 2, laſt declarations, about the <hi>Regalia.</hi>
+            </p>
+            <pb n="5" facs="tcp:48314:3"/>
+            <p>Alſo ſeveral other Letters, about the buſineſs of <hi>Pomiez,</hi> either to the late Biſhop of <hi>Pomiez,</hi> or to the Arch-Biſhop of <hi>Tholouſe,</hi> but eſpecially the 2. laſt, one of which dated the 23. of <hi>September,</hi> con<g ref="char:EOLhyphen"/>firms the Election of the Grand Vicars, choſen by the Chapter, in the vacancy of that See, likewiſe an Injunction to acknowledge them, upon pain of in<g ref="char:EOLhyphen"/>curring the Severeſt penalties of the Church. The other, deliver'd the firſt of <hi>January,</hi> Excommunicates the Arch-Biſhop of <hi>Tholouſe,</hi> without uſing any of the forms obſerv'd in <hi>France;</hi> which was Injurious to the Epiſcopal Dignity, and equally miſchievous both to Church and State.</p>
+            <p>The letter about the buſineſs of <hi>Charonne,</hi> &amp;c. That the deſign of theſe Letters was to beget a miſ<g ref="char:EOLhyphen"/>underſtanding, and to create a difference between the Pope, and the King, to ruine the Canons, receiv'd, and obſerv'd in that Kingdome, to engage the Pope, upon bare Informations, without any Appeal, and <hi>omiſſo medio,</hi> to Judge, and in his Tribunal at <hi>Rome</hi> (of his own meer motion, and by the ſole motive of the plenitude of his power) to confirm ſeveral Elections, which were nul, and void; thereby de<g ref="char:EOLhyphen"/>priving the Biſhops of their ordinary Authority, Arch<g ref="char:EOLhyphen"/>biſhops, and Primates of their Juriſdiction, and In<g ref="char:EOLhyphen"/>terrupting the Order of Eccleſiaſtical Proceedings.</p>
+            <p>This Memorial having been read, the Aſſembly deſired the Arch Biſhop of <hi>Paris,</hi> their Preſident, to name ſix Commiſſioners, who, together with him<g ref="char:EOLhyphen"/>ſelf, might conſider what was to be done in theſe af<g ref="char:EOLhyphen"/>faires, and to make their Report to the Aſſembly which, after Conſultation, was made accordingly
+<pb n="6" facs="tcp:48314:4"/>by the Arch-Biſhop of <hi>Reims,</hi> one of the Commiſſion<g ref="char:EOLhyphen"/>ers, in a long and elegant Speech, the effect of which was as follows, <hi>viz.</hi>
+            </p>
+            <p>That the Right of the <hi>Regalia,</hi> which had cauſed the aforeſaid Letters, had been, a very long time, poſſeſs'd by their Kings; <hi>Alexander the</hi> 3d. <hi>Inno<g ref="char:EOLhyphen"/>cent the</hi> 3d. <hi>Clement the</hi> 4th. <hi>Gregory the</hi> 10th. The ſecond Council of <hi>Lyon,</hi> and <hi>Gregory</hi> the 11th. Yea their own Council of <hi>Bourges,</hi> had acknowledg'd and approv'd it. That no Aſſembly of the French Clergy ever pretended, that buſineſſes, relating to the <hi>Regalia,</hi> ought to be brought before an Eccleſiaſtical Tribunal, but to be Debated, and decided by the Juriſdiction of the King's Council only. For confirmation of this, he ſaid that <hi>Philip</hi> of <hi>Valois,</hi> by his Order of <hi>October</hi> 1334. decided all differences of this Nature, which happen'd in his Reign. That <hi>Lewis</hi> 11. by his declaration of the 24th. of <hi>May</hi> 1463, prohibits all his Subjects to have any Proceſs, concerning the <hi>Re<g ref="char:EOLhyphen"/>galia,</hi> before an Eccleſiaſtical Judge (no, not in the Court of <hi>Rome it ſelf</hi>) and yet that it did not Appear that either <hi>John,</hi> 22. or <hi>Pious,</hi> 2. complain'd of it, That the Province of <hi>Britany,</hi> which was not reu<g ref="char:EOLhyphen"/>nited to the Crown of <hi>France</hi> till the Year 1532, was Subjected to the <hi>Regalia,</hi> by a Degree of Parliament, in 1598, in the Popedom of <hi>Clement,</hi> 8. who com<g ref="char:EOLhyphen"/>plain'd not of it, no, not to the Cardinal of <hi>Oſſat,</hi> who, then attending the Pope, confeſſeth that the King might Extend the <hi>Regalia</hi> upon all the Biſhop<g ref="char:EOLhyphen"/>ricks of his Kingdom, That the Principles of the Pope, and of the King <gap reason="illegible" resp="#MURP" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>cers about the <hi>Regalia,</hi> were very different <hi>(viz.)</hi> The Pope believes that
+<pb n="7" facs="tcp:48314:4"/>the <hi>Regalia</hi> is a Right derived from the Church; the King looks on it as a Regal, Temporal, and Inſe<g ref="char:EOLhyphen"/>perable Right of the Crown. The <hi>Pope</hi> relyes on the 2d. Council of <hi>Lyon,</hi> as a ſacred boundary, beyond which we may not paſs, but the King (who, not without Rea<g ref="char:EOLhyphen"/>ſon, Pretends that he is not Subject to a Council for a Right meerly Temporal) doth not own that Autho<g ref="char:EOLhyphen"/>rity of the Council, alleaged againſt him, but on the contrary His Magiſty maintains that his Predeceſ<g ref="char:EOLhyphen"/>ſors could not prejudice his Rights; and that if they had reaſon to ſuſpend the Execution of the <hi>Regalia</hi> in the four Provinces, he had much more reaſon to revive it there; that the Biſhops had acknowledg<g ref="char:EOLhyphen"/>ed him for their Judge, and that having pronounc'd Judgment, he is oblig'd to give an account of it to God only.</p>
+            <p>Then the Biſhop of <hi>Troyes</hi> (another of the Com<g ref="char:EOLhyphen"/>miſſioners.) commended to their Favour, and Pro<g ref="char:EOLhyphen"/>tection, a certain Doctor of the <hi>Sorbonne,</hi> for a Book written by him, wherein (ſaid he) <q>he juſtifies the Right, which we have to decide matters of Faith, and Diſcipline, and to oppoſe the Authority, which we have im<g ref="char:EOLhyphen"/>mediately received from Jeſus Chriſt, againſt the novel<g ref="char:EOLhyphen"/>ties, which might ariſe in our Dioceſes, and Provinces. Se<g ref="char:EOLhyphen"/>condly he demonſtrator that the Gallican Church is not de<g ref="char:EOLhyphen"/>parted from the Diſcipline of the Council of <hi>Sardica,</hi> the Execution of which the Councils, and Ancient <hi>Popes</hi> have ſo often recommended, and according to which, the Biſhops ought to be tryed firſt by their Brethren in their Provin<g ref="char:EOLhyphen"/>ces. And theſe two <hi>Maxims</hi> are Canonical, and conform<g ref="char:EOLhyphen"/>able to the Spirit of the Church, and to the Sacred Rules, Eſtabliſh'd by ancient Councils and Authorized by the Holy See.</q>
+            </p>
+            <pb n="8" facs="tcp:48314:5"/>
+            <p>When he had ended, the Arch-Biſhop of <hi>Reims</hi> con<g ref="char:EOLhyphen"/>tinued his Speech, and ſaid that the Commiſſioners had examin'd the <hi>Pope's</hi> Letters, and firſt, that the occaſion of thoſe two, written to the <hi>Nuns</hi> of <hi>Charonne</hi> was thus. Their Monſtery was founded 1643. By the Ducheſs of <hi>Orleans,</hi> who deſired the <hi>Pope</hi> that the firſt Abbeſs might be continued daring life, and it was granted. After her deceaſe the King nominates one to ſucceed her, but ſhe dying before ſhe was confirm'd, he nominates another, who was Eſta<g ref="char:EOLhyphen"/>bliſhed Abbeſs by the Arch-Biſhop of <hi>Paris</hi> in 1679. That the firſt Letter of 7th of <hi>Auguſt</hi> 1680. forbids the Nuns to obey this Abbeſs, and commands them to chooſe another, which they did, without obſer<g ref="char:EOLhyphen"/>ving the Rules of Elections; which as ſoon as the Pope was informed of, he wrote another Letter to them, dated 15th <hi>October</hi> following, by which the defect of Formalities is ſupplyed, and this irregular Election of the new Abbeſs confirmed. That the ſe<g ref="char:EOLhyphen"/>veral Letters, which the Pope had written to the Arch-Biſhop of <hi>Tholouſe,</hi> to the, ſince deceaſed, Biſhop of <hi>Pomiez,</hi> and to the Chapter of that Church, ſince its vacancy, having been cauſed by the diſpute about the <hi>Regalia,</hi> are to be taken as one ahd the ſame, and that the Diſpute happen'd as follows, <hi>viz.</hi> The ſaid Biſhop refuſing to ſubmit to the Declarations of 1673, and 1675. form'd ſeveral Proceſſes againſt ſuch Clergymen, who, by vertue of the <hi>Regalia,</hi> poſſeſs'd ſome of the Prebends of his Church, which the Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Tholouſe,</hi> upon the Appeals brought before him, made void. That on 7th <hi>Auguſt</hi> laſt, the Biſhop dyed, and the old Canons Regular of his Church
+<pb n="9" facs="tcp:48314:5"/>Elected, after his deceaſe, ſome Officers to govern it. That theſe new Officers continued the Proceſs againſt the <hi>Regaliſts,</hi> which the Biſhop had begun, and the Archbiſhop of <hi>Tholouſe</hi> made them void; complaint whereof being made to the Pope, he wrote two Let<g ref="char:EOLhyphen"/>ters, one to the Archbiſhop, and the other to the Chapter of <hi>Pamiez,</hi> which are of no moment. But by a Letter of 2d. <hi>October</hi> following, to the Chapter and Conons Regular of <hi>Pamiez,</hi> the Pope confirms the Officers, nominated by the Chapter, and enga<g ref="char:EOLhyphen"/>geth to confirm ſuch as ſhall be choſen; he forbids them to own any others; he declares null whatever ſhall be done by Vicars General, which ſhall not be choſen by the old Canons, and orders this Letter to be read in the Dioceſs of <hi>Pomiez.</hi> That a Letter of <hi>Newyears-day</hi> laſt confirms, a ſecond time the Offi<g ref="char:EOLhyphen"/>cers, Elected by the Chapter, and declares that the Pope will confirm ſuch as this Chapter ſhall Elect; that it Excommunicates with the greater Excommu<g ref="char:EOLhyphen"/>nication (which is immediately incurr'd, without any other Declaration) all ſuch as ſhall favour the Grand Vicars, choſen by the Archbiſhop, and the Canons, that are <hi>Regaliſts,</hi> or ſhall favour the ſaid Metropolitan; and in fine, that it Excommunicates the Metropolitan himſelf. In the next place he tells them that the firſt Parliament of the King<g ref="char:EOLhyphen"/>dome having paſs'd a Decree 24th <hi>Sept.</hi> againſt the Pope's Letter of 7 <hi>Aug.</hi> to the Nuns of <hi>Charonne,</hi> the Commiſſioners were of opinion, that it was their In<g ref="char:EOLhyphen"/>tereſt to joyn with the Parliament therein; tho the ſaid Decree was Condemned by a Letter of 18th <hi>De<g ref="char:EOLhyphen"/>cember</hi> following, which forbids the reading of it,
+<pb n="10" facs="tcp:48314:6"/>upon pain of Excommunication, and Commands the Biſhops, or Inquiſitors to burn all the Copies of it that can be found, <hi>&amp;c.</hi>
+            </p>
+            <p>Then he mentions the reflections of the Commiſ<g ref="char:EOLhyphen"/>ſioners upon theſe matters; ſome of which are that by the Pope's two Letters to the Nuns of <hi>Charonne,</hi> granted upon their bare Relation, and in their own Cauſe, all is vacated that their Archbiſhop had done, without hearing, or ſo much as ſummoning him. That by reaſon of a Clauſe Inſerted in the ſe<g ref="char:EOLhyphen"/>cond Letter, <hi>viz.</hi> 
+               <q>that the Pope hath power to ſupply all formes, that may be omitted, even ſuch as are Eſſen<g ref="char:EOLhyphen"/>tial;</q> it is pretended that he can ſupply the want of that very knowledg of a matter, which, by the Law of Nature, is abſolutely neceſſary, before a judgment can be given of it. That the Proceedings againſt the Archbiſhop of <hi>Tholouſe,</hi> were contrary to Equity, and the Rules of their Profeſſion, and alſo to the Treaty, call'd the <hi>Concordat,</hi> which was made between <hi>Leo</hi> 10. and the Holy See, on the one part, and <hi>Francis</hi> 1. and his Kingdome, on the other part, and being Authoris'd by both Parties, is become a Law both in Church and State, and conſequently cannot in the leaſt be debilitated by any pretended Power from the Pope. And having proved theſe things excellently, and at large, he proeeeds to acquaint the Aſſembly with the Reſolutions which their Commiſſioners had judg'd fit to be taken in that conjuncture, <hi>viz.</hi> That a Letter be written to the Pope to repreſent to him that the buſineſs of the <hi>Regalia</hi> deſerved not ſo much heat as is expreſſed in his Letters, it being look'd up<g ref="char:EOLhyphen"/>on by the King's Officers as a Temporality, and that
+<pb n="11" facs="tcp:48314:6"/>it is in itſelf, a thing of no great conſequence to the Church. That by the Letters to the Nuns of <hi>Cha<g ref="char:EOLhyphen"/>ronne,</hi> and Chapter of <hi>Pamiez,</hi> the Order of Juriſ<g ref="char:EOLhyphen"/>dictions had been diſturb'd, and the Right of Ordi<g ref="char:EOLhyphen"/>naries, and Metrapolitans violated; that he had been exalted above the Canonical Conſtitutions, and that theſe Deſigns againſt Rules the moſt Sacred might weaken that Union, which the Churches of <hi>France</hi> ought inviolably to keep with the holy See. And laſtly, that the King be deſired to permit the Prelates of his Kingdome to meet in a National Council, or to call a General Aſſembly of the Clergy, to conſiſt of two Deputies of the firſt Order, and two of the ſecond, in every Province, and that their Preſident, and ſix Commiſſioners be deſired to attend his Ma<g ref="char:EOLhyphen"/>jeſty upon this occaſion, which being done accor<g ref="char:EOLhyphen"/>dingly, the King was pleaſed to Order a General Aſ<g ref="char:EOLhyphen"/>ſembly of the Clergy, who having duely conſidered the entolerable encroachments and uſurpations of the See of <hi>Rome,</hi> did, 19. <hi>March</hi> 1602. <hi>S.N.</hi> Unanimouſ<g ref="char:EOLhyphen"/>ly Reſolve as follows, <hi>viz.</hi>
+            </p>
+            <q>
+               <p>That a General Council is above the Pope.</p>
+               <p>That he has no power, in Temporals, in any Prince's Dominions.</p>
+               <p>That he has no power to Depoſe Princes.</p>
+               <p>That he has no power to Abſolve Subjects from their Oaths of Fidelity.</p>
+               <p>That he is not Infallible.</p>
+            </q>
+            <p>The firſt of theſe Reſolutions deſtroys the Pope's Supremacy in Temporals; and the laſt deſtroys his Infallibility.</p>
+            <pb n="12" facs="tcp:48314:7"/>
+            <p>The next day the Aſſembly, by their Preſident, and Com<g ref="char:EOLhyphen"/>miſſioners, preſented to His Majeſty theſe Reſolutions, ſigned by the whole Aſſembly, and he, at their requeſt, cauſed an Edict to be Publiſhed, thereby Ordering that the ſame be Regiſter'd in all the Courts of Parliament, in all Courts of Judicature Eccleſiaſtical, and Civil, and in all Univerſities, and Colliges in his Dominions. That all Profeſſors in Divi<g ref="char:EOLhyphen"/>nity, and Canon Law, do teach the Doctrin therein contain<g ref="char:EOLhyphen"/>ed (being the ancient Doctrine of that Kingdome) and do ſubſcribe the ſame. That no Perſon Secular, or Regular ſhall be received as Doctor, or Licentiate in Divinity, or Canon Law, till he has maintain'd this Doctrine by publick Diſputation. And that no perſon, either Subject, or Stran<g ref="char:EOLhyphen"/>ger, ſhall preſume to teach any thing, contrary to this Doctrine, within his Dominions. The ſaid Reſolutions were the 23d of <hi>March</hi> Ratified, and paſs'd in the Parliament of <hi>Paris,</hi> and a Copy of them ſent to the Pope, together with a particular Account of all their Proceedings, and their Reaſons for what they had done. But the Pope, inſtead of acknowledging his Uſurpations, which had been the cauſe of theſe Proceedings of the Aſſembly, vindicates himſelf, and by the following Letter, damns and makes utterly null, and void, all that had been done, or ſhould be done in this Aſ<g ref="char:EOLhyphen"/>ſembly, and they in requital make, and ſend him the Pro<g ref="char:EOLhyphen"/>teſtation, which damns his damnatory Letter, and juſtifies their ſaid Proceedings.</p>
+         </div>
+         <div type="part">
+            <div xml:lang="lat" type="letter">
+               <pb n="1" facs="tcp:48314:7"/>
+               <head>Literae Pontificiales ad Clerum <hi>Gallica<g ref="char:EOLhyphen"/>num.</hi> Venerabilibus Fratribus Archi Epiſcopis, Epiſcopis, <hi>&amp;c.</hi>
+               </head>
+               <p>PAternae Charitati, qua Chariſſimum in Chriſto Filium no<g ref="char:EOLhyphen"/>ſtrum <hi>Ludovicum</hi> Regem Chriſtianiſſi mum, Eccleſias veſtras, Vos Ip<g ref="char:EOLhyphen"/>ſos, &amp; univerſum iſtud Regnum amplectimur, permoleſtum acci<g ref="char:EOLhyphen"/>dit ac plane acerbum cognoſcere, ex Veſtris literis die Tertia <hi>Fe<g ref="char:EOLhyphen"/>bruarii</hi> ad Nos datis, Epiſco<g ref="char:EOLhyphen"/>pos, Clerum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Galliae, qui Corona olim &amp; gaudium erant Apoſtoli<g ref="char:EOLhyphen"/>cae ſedis, ita ſe erga illum in praeſens gerere, ut cogamur (mul<g ref="char:EOLhyphen"/>tis cum lachrimis) uſurpare Pro<g ref="char:EOLhyphen"/>pheticum illud, <hi>Filii Matris meae pugnaverunt adverſus me.</hi> quanquam adverſus vos ipſos poti<g ref="char:EOLhyphen"/>us pugnatis, dum Nobis in ea Cauſa reſiſtitis, in qua Veſtrarum Eccle<g ref="char:EOLhyphen"/>ſiarum ſalus ac libertas agitur, &amp; in qua Nos, pro Juribus, &amp; dignitate Epiſcopali in iſto Regno<g ref="char:EOLunhyphen"/>tuenda,
+<pb n="2" facs="tcp:48314:8"/>ab aliquibus Ordinis Ve<g ref="char:EOLhyphen"/>ſtri piis &amp; fortibus Viris appel<g ref="char:EOLhyphen"/>lati, abſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> mora inſurreximus, &amp; jampridem in gradu ſtamus; nullas privatas noſtras rationes ſecuti ſed debitae Eccleſiis omnibus ſolicitudini, &amp; intimo amori er<g ref="char:EOLhyphen"/>ga vos ſatisfacturi.</p>
+               <p>Nihil ſane laetum, &amp; Veſtris nominibus dignum eas Literas con<g ref="char:EOLhyphen"/>tinere, in ipſo earum limine intel<g ref="char:EOLhyphen"/>leximus; Nam, praeter ea, quae de Norma in Comitiis convocan<g ref="char:EOLhyphen"/>dis, peragendiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſervata affere<g ref="char:EOLhyphen"/>bantur, animadverſimus ea or<g ref="char:EOLhyphen"/>diri a metu Veſtro, quo ſuaſore nunquam ſacerdotes DEI eſſe ſolent, in arduis &amp; excelſis pro Religione &amp; Eccleſiaſtica Liber<g ref="char:EOLhyphen"/>tate, vel aggrediendo fortes, vel perficiendo conſtantes; quem qui<g ref="char:EOLhyphen"/>dem metum falſo judicaviſtis, poſſe Vos in ſinum Noſtrum ef<g ref="char:EOLhyphen"/>fundere. In ſinu enim noſtro hoſpitari perpetuo debet charitas Chriſti, quae foras mittit, &amp; lon<g ref="char:EOLhyphen"/>ge arcet a ſe Timorem; qua cha<g ref="char:EOLhyphen"/>ritate erga vos, Regnum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Galliae,</hi> Paternum Cor Noſtrum flagrare, multis jam ac magnis experimen<g ref="char:EOLhyphen"/>tis cognoſci potuit, quae huic re<g ref="char:EOLhyphen"/>ferre non eſt neceſſe. Si quid eſt autem in quo bene merita de vo<g ref="char:EOLhyphen"/>bis ſit Charitas noſtra, eſſe inpri<g ref="char:EOLhyphen"/>mis putamus, hoc ipſum Regaliae Negocium, ex quo, ſi ſerio res perpendatur, omnis Ordinis veſtri
+<pb n="3" facs="tcp:48314:8"/>Dignitas, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Authoritas pendet. Timuiſtis ergo, ubi non erat ti<g ref="char:EOLhyphen"/>mor; Id unum timendum Vobis erat, ne apud Deum, homineſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> redargui jure poſſetis loco, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> honori veſtro &amp; Paſtorali Officio debito defuiſſe; Memoriae vobis, repetenda erant quae Antiqui illi Sanctiſſimi Praeſules, quos quam<g ref="char:EOLhyphen"/>plurimi poſtea qualibet aetate ſunt imitati Epiſcopalis Conſtantiae &amp; Fortitudinis exempla. In hujuſ<g ref="char:EOLhyphen"/>modi caſibus, ad veſtram erudi<g ref="char:EOLhyphen"/>tionem ediderunt, intuendae Ima<g ref="char:EOLhyphen"/>gines Praedeceſſorum Veſtrorum, non ſolum, qui patrum, ſed qui noſtra quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> memoria floruerunt. Et qui <hi>Ivonis Carnotenſis</hi> dicta laudatis, debuiſtis facta etiam, cum res poſceret, imitari. Noſtis quae is fecerit, paſſus<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſit in turbulenta illa &amp; periculoſa con<g ref="char:EOLhyphen"/>tentione inter <hi>Urbanum</hi> Ponti<g ref="char:EOLhyphen"/>ficem, &amp; <hi>Philippum</hi> Regem, mu<g ref="char:EOLhyphen"/>neris ſui eſſe arbitratus contra Regiam indignationem ſtare, Do<g ref="char:EOLhyphen"/>nis ſpoliari, carceres &amp; exilia perferre, deſerentibus aliis Cau<g ref="char:EOLhyphen"/>ſam meliorem. Officii veſtri erat ſedis Apoſtolicae authoritati ſtudia veſtra adjungere, &amp; paſtorali pectore, humilitate ſacerdotali, Cauſam Eccleſiarum veſtrarum apud Regem agere; Ejus conſci<g ref="char:EOLhyphen"/>entiam de tota re inſtruendo, e<g ref="char:EOLhyphen"/>tiam cum periculo, Regium in vos animum Irritandi, ut poſſetis in poſterum ſine Rubore quotidiana
+<pb n="4" facs="tcp:48314:9"/>Pſalmodia DEUM alloquentes <hi>Davidica</hi> verba proferre; <hi>Lo<g ref="char:EOLhyphen"/>quebar de Teſtimon is in con<g ref="char:EOLhyphen"/>ſpectu Regum &amp; non con<g ref="char:EOLhyphen"/>fundebar.</hi> Quanto magis id vobis faciendum fuit, tam per<g ref="char:EOLhyphen"/>ſpecta at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> explorata optimi Prin<g ref="char:EOLhyphen"/>cipis Juſtitia &amp; Pietate, quem ſingulari benignitate, Epiſcopos audire, Eccleſiis favere, &amp; Epiſ<g ref="char:EOLhyphen"/>copalem poteſtatem intemeratam velle, Vos ipſi ſcribitis, &amp; Nos magna cum voluptate legimus in literis veſtris. Non dubitamus ſi ſtetiſſetis ante Regem, pro cauſae tam juſtae defenſione, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> de futura vobis verba, quae loque<g ref="char:EOLhyphen"/>remini, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Regi Cor docile, quo veſtris annueret poſtulatis. Nunc cum muneris veſtri &amp; Regiae aequitatis quodammodo obliti' in tanti momenti negotio, ſilentium tenueritis, non videmus quo pro<g ref="char:EOLhyphen"/>babili fundamento fignificetis vos ad ita agendum aductos; Quod in controverſia victi ſitis, quod cauſa cecideritis; quomodo cecidit qui non stetis? Ecquis Veſtrum tam gravem, tam juſtam cau<g ref="char:EOLhyphen"/>ſam, tam ſacroſancta moravit a<g ref="char:EOLhyphen"/>pud Regem? Cum tamen Praedeceſ<g ref="char:EOLhyphen"/>ſores veſtri cum in ſimili periculo conſtituti, non ſemel apud ſu<g ref="char:EOLhyphen"/>periores Galliae Reges, imo apud hunc ipſum libera voce defende<g ref="char:EOLhyphen"/>rint victoreſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> a Regio conſpe<g ref="char:EOLhyphen"/>ctu'diſceſſerint, Relatis etiam ab aequiſſimo Rege praemiis Paſtora<g ref="char:EOLhyphen"/>lis
+<pb n="5" facs="tcp:48314:9"/>Officii ſtrenue impleti. Quii veſtrum in arenam deſcendit, ut opponeret murum pro Domo <hi>Iſ<g ref="char:EOLhyphen"/>rael?</hi> Quis auſus eſt invidiae ſe offerre? Quis vel vocem unam emiſit memorem priſtinae libertatis? Clamarunt interim, ſicuti ſcribitis, &amp; quidem in mala cauſa; pro Regio jure cla<g ref="char:EOLhyphen"/>marunt Regis Adminiſtri, cum vos in optima pro Chriſti honore ſileritis; ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> illa ſolidiora, quod redituri nobis rationem, ſeu ve<g ref="char:EOLhyphen"/>rius Excuſationem allaturi, Re<g ref="char:EOLhyphen"/>rum in hujuſmodi Comitiis per Vos actarum, exaggeratis pericu<g ref="char:EOLhyphen"/>lum, ne ſacerdotium &amp; Imperi<g ref="char:EOLhyphen"/>um inter ſe collidantur, &amp; mala quae exinde in Eccleſiam &amp; Rempublicam conſequi poſſent; proinde exiſtimaſſe Vos ad of<g ref="char:EOLhyphen"/>ficium veſtrum pertinere, aliquam inire rationem tollendi de medio Gliſcentis Diſſidii, nullam ve<g ref="char:EOLhyphen"/>ro apparuiſſe Commodiorem, remedio ab Eccleſiae Patri<g ref="char:EOLhyphen"/>bus indicato, utili condeſcentio<g ref="char:EOLhyphen"/>ne Canones temperandi, pro tem<g ref="char:EOLhyphen"/>porum neceſſitate; ubi ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Fidei veritas ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> morum honeſtas pe<g ref="char:EOLhyphen"/>riclitentur debere, ab ordine veſtro deberi a Gallicana, imo ab uni<g ref="char:EOLhyphen"/>verſa Eccleſia, Plurimum Regi tam praeclar de Catholica Reli<g ref="char:EOLhyphen"/>gione merito &amp; indies Magis mereri cupienti: Propterea vos jure veſtro decedentes, illud in Regem contuliſſe. Omittimus
+<pb n="6" facs="tcp:48314:10"/>hic commemorare, quoe ſignifica<g ref="char:EOLhyphen"/>tis de appellato a vobis Seculari Magiſtratu, a quo victi diſceſ<g ref="char:EOLhyphen"/>ſeritis. Cupimus enim hujus facti memoriam aboleri, &amp; vo<g ref="char:EOLhyphen"/>lumus ea vos verba e literis veſtris expungere, ne in Actis Cleri Gallicani reſideant ad de<g ref="char:EOLhyphen"/>decus veſtri nominis ſempiter<g ref="char:EOLhyphen"/>num. Quae de <hi>Innocentio</hi> ter<g ref="char:EOLhyphen"/>tio, <hi>Benedicto</hi> duodecimo, <hi>Boni<g ref="char:EOLhyphen"/>facio</hi> octavo in veſtram de<g ref="char:EOLhyphen"/>fensionem adducitis, non defu<g ref="char:EOLhyphen"/>ere, qui veſtris lucubrationibus oſtenderint, quam frivola at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> extranea ſint huic Cauſae. Et magis notum eſt quam ut opus ſit commemorare quo Zelo qua Conſtantia, eximii illi Pon<g ref="char:EOLhyphen"/>tifices Eccleſiae Libertatem de<g ref="char:EOLhyphen"/>fenderint adverſus Seculares po<g ref="char:EOLhyphen"/>teſtates, tantum abeſt, ut eorum Exempla Poſſint errori veſtro ſuf<g ref="char:EOLhyphen"/>fragari. Caeterum altro admitti<g ref="char:EOLhyphen"/>mus, &amp; Laudamus concilium re<g ref="char:EOLhyphen"/>laxandi Canonum diſciplinam pro Temporum neceſſitate, ubi id fieri Poſſit, Sine fidei &amp; morum diſ<g ref="char:EOLhyphen"/>pendio; Imo addimus cum <hi>Au<g ref="char:EOLhyphen"/>guſtino,</hi> toler andi aliquando pro <hi>Bono Unitatis, qua pro Bono A<g ref="char:EOLhyphen"/>quitatis odio habenda ſunt;</hi> Ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> eradicanda Zizania, ubi periculum ſit, ni ſimul etiam Triticum eridi<g ref="char:EOLhyphen"/>cetur. Id ita tamen accipi oportet, ut in aliquo tdntum peculiari caſu &amp; ad tempus, &amp; ubi neceſſitas ur<g ref="char:EOLhyphen"/>get licitum ſit, Siouti Factum eſt
+<pb n="7" facs="tcp:48314:10"/>ab Eccleſia cum Arrianos, &amp; Do<g ref="char:EOLhyphen"/>nitiſtas Epiſcopos ejurato errore, ſuis Eccleſiis reſtituit, ut populos, qui ſecuti eos fuerant, in Officio contineret. Aliud eſt, ubi diſci<g ref="char:EOLhyphen"/>plina Eccleſiae, per univerſum Ampliſſimi Regni ambitum ſine Temporis termino, &amp; cum mani<g ref="char:EOLhyphen"/>feſto periculo, ne Exemplum la<g ref="char:EOLhyphen"/>tius manet labefactetur, imo ever<g ref="char:EOLhyphen"/>titur ipſius Diſciplinae &amp; Hierarchae Eccleſiaſticae fundamentum, ſicu<g ref="char:EOLhyphen"/>ti evenire neceſſe eſſet, ſi quae a Rege Chriſtianiſſimo in negocio Regaliae nuper acta ſunt, conni<g ref="char:EOLhyphen"/>ventibus, imo conſentientibus Vo<g ref="char:EOLhyphen"/>bis contra Sacrorum Canonum &amp; praeſertim Generalis Conſilii <hi>Ludg<g ref="char:EOLhyphen"/>dunenſis</hi> Authoritatem, contra no<g ref="char:EOLhyphen"/>tam jampridem Vobis in ea re mentem noſtram, &amp; contra ipſam Jurisjurandi Religionem, qua vos Deo, Romanae veſtriſque Eccle<g ref="char:EOLhyphen"/>ſiis obligaſtis, cum Epiſcopali Ca<g ref="char:EOLhyphen"/>ractere imbueremini; Haec ſancta ſedes Executioni mandari &amp; ma<g ref="char:EOLhyphen"/>lum invaleſcere diutius deferendo permitteret, ac non ea nos protra<g ref="char:EOLhyphen"/>dita Divinitus humilitati noſtrae ſuprema in univerſam Eccleſiam poteſtate, ſolenni more praedeceſſo<g ref="char:EOLhyphen"/>rum noſtrorum veſtigiis inheren<g ref="char:EOLhyphen"/>tes improbaremus? Cum praeſer<g ref="char:EOLhyphen"/>tim per abuſum Regalioe non ſolum everti diſciplinam Eccleſiae res ipſa doceat; ſed etiam Fidei ipſius integritatem in diſcrimen vocari, facile intelligatur ex ipſis Regi<g ref="char:EOLhyphen"/>orum
+<pb n="8" facs="tcp:48314:11"/>Decretorum verbis, quae jus conferenda Beneficia Regi vindi<g ref="char:EOLhyphen"/>cant; non tanquam proſluens ex ali<g ref="char:EOLhyphen"/>qua Eccleſiae conceſſone, ſed tan<g ref="char:EOLhyphen"/>quam Ingenitum &amp; C<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aevum Re<g ref="char:EOLhyphen"/>giae Coronae. Illam vero par<g ref="char:EOLhyphen"/>tem literarum veſtrarum non ſi<g ref="char:EOLhyphen"/>ne Animi horrore legere potui<g ref="char:EOLhyphen"/>mus, in qua dicitis, vos jure veſtro decedentes illud in Regem contu<g ref="char:EOLhyphen"/>liſſe; quaſi Eccleſiarum, quae cu<g ref="char:EOLhyphen"/>rae veſtrae cerditae fuere, eſſetis ar<g ref="char:EOLhyphen"/>bitri non cuſtodes, &amp; quaſi Eccle<g ref="char:EOLhyphen"/>ſiae ipſae &amp; Spiritualia earum ju<g ref="char:EOLhyphen"/>ra poſſent ſub poteſtatis ſecularis jugum mitti ab Epiſcopis, qui ſe pro earum libertate in ſervitutem dare deberent. Vos ſane ipſi hanc veritatem agnoviſtis &amp; confeſſi eſtis, dum alibi pronunciaſtis Jus Regaliae Servitutem quandam eſ<g ref="char:EOLhyphen"/>ſe, quae in eo praeſertim quod ſpe<g ref="char:EOLhyphen"/>ctat Beneficiorum Collationem im<g ref="char:EOLhyphen"/>poni non poteſt; niſi Eccleſia con<g ref="char:EOLhyphen"/>cedente vel ſaltem conſentiente. Suo jure vos ergo jus illud in Re<g ref="char:EOLhyphen"/>gem contuliſtis? Cum Sacri Ca<g ref="char:EOLhyphen"/>nones diſtrahi vetent jura Eccleſia<g ref="char:EOLhyphen"/>rum quo modo ea vos diſtrahere, in Animum induxiſtis, quaſi eorun<g ref="char:EOLhyphen"/>dem Canonum Authoritati dero<g ref="char:EOLhyphen"/>gare liceat vobis? Revocate in Memoriam, quoe inclitus ille Con<g ref="char:EOLhyphen"/>teraneus veſter <hi>Clarevalenſis</hi> Ab<g ref="char:EOLhyphen"/>bas non Gallicanae modo, ſed eti<g ref="char:EOLhyphen"/>am univerſalis Eccleſiae lumen a vobis merito nuncupatus, <hi>Eugeni<g ref="char:EOLhyphen"/>um</hi> Pontificem officii ſui admonens
+<pb n="9" facs="tcp:48314:11"/>reliquit Scripta praeclare memi<g ref="char:EOLhyphen"/>niſſet, ſi eſſet cui claves creditae cui oves creditae ſunt. Eſſe quidem et alios coeli Janitores &amp; Gregum Paſtores, ſed cum habeant illi Aſ<g ref="char:EOLhyphen"/>ſignatos Greges, ſinguli ſingulos, ipſi univerſos creditos, uni unum nec modo ovium ſed et Paſtorum <hi>Eu<g ref="char:EOLhyphen"/>genium</hi> eſſe paſtorem. Ideo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> jux<g ref="char:EOLhyphen"/>ta Canounum ſtatuta alies Epiſco<g ref="char:EOLhyphen"/>pos vocatos fuiſſe in partem ſolici<g ref="char:EOLhyphen"/>tudinis ipſum in plenitudinem po<g ref="char:EOLhyphen"/>teſtatis. Ex quibus verbis quan<g ref="char:EOLhyphen"/>tum vos admoneri par eſt de ob<g ref="char:EOLhyphen"/>ſequio et obedientia, quam debetis huic Sanctae ſedi, cui nos Deo Au<g ref="char:EOLhyphen"/>thore quamquam immeriti praeſi<g ref="char:EOLhyphen"/>demus, tantundem paſtoralis noſtra ſolicitudo excitatur ad inchoan<g ref="char:EOLhyphen"/>dum tandum aliquando in hoc ne<g ref="char:EOLhyphen"/>gocio, quam nimia fortaſſe longa<g ref="char:EOLhyphen"/>nimitas noſtra, dum poenetentia ſpa<g ref="char:EOLhyphen"/>tium damas, hactenus diſtulit A<g ref="char:EOLhyphen"/>poſtolici muneris Executionem. Quamobrem per praeſentes literas tradita nobis ab Omnipotenti Deo Autoritate, improbamus, reſcindi<g ref="char:EOLhyphen"/>mus, &amp; Caſſamus quae in veſtris commitiis acta ſunt in negotio Re<g ref="char:EOLhyphen"/>galliae, cum omnibus inde ſecutis, &amp; quae in poſterum attentari con<g ref="char:EOLhyphen"/>tingent, ea<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> perpetuo inita, &amp; inania declaramus, quam<g ref="char:EOLhyphen"/>vis cum ſint ipſa per ſe manifeſto nulla Caſſatione aut decla<g ref="char:EOLhyphen"/>ratione hujuſmodi non egerent. Speramus tamen vos ipſaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ipſos re melius conſiderata caeteri
+<pb n="10" facs="tcp:48314:12"/>retractione conſulturos conſcientiae veſtrae, &amp; Cleri Gallicani exiſti<g ref="char:EOLhyphen"/>mationi ex quo Clero, Sicuti huc uſque non defuerè, ita in poſterum non defuturos conſidimus, qui Boni Paſtoris Exemplo libenter animam parati ſint pro Ovibus, &amp; pro Teſtemento Patrum ſuorum. Nos quidem, pro Officii noſtri debito, parati ſumus Dei adjutrice gratia ſacrificari ſacrificium juſticiae, &amp; Eccleſia Dei jura ac libertatem, &amp; hujus ſedis ſanctae Authoritatem Dignitatemque de<g ref="char:EOLhyphen"/>fendere, nihil de nobis, ſed omnia de eo preſumentes; qui nos confor<g ref="char:EOLhyphen"/>tat, &amp; operatur in nobis, &amp; qui juſſit <hi>Petrum</hi> ſuper aquas ad ſe venire. Praeterit enim figura hujus Mundi, &amp; Dies Domini appropinquat. Sic ergo aga<g ref="char:EOLhyphen"/>mus, venerabiles Fratres ac dilecti Filii, ut cum ſummus Pater fa<g ref="char:EOLhyphen"/>milias, &amp; Princeps Paſtorum ra<g ref="char:EOLhyphen"/>tionem ponere voluerit, cum ſervis ſuis ſanguinem peſſundatae, &amp; Laceratae Eccleſiae quam ſuo ac<g ref="char:EOLhyphen"/>quiſivit de noſtris manibus non requirat. Vobis interim omnibus Apoſtolicam Benedictionem cui Caeleſtem accedere optamus intimo Paterni amoris affectu imparti<g ref="char:EOLhyphen"/>mur. Datum Romae &amp;c.</p>
+            </div>
+            <div type="letter">
+               <pb n="1" facs="tcp:48314:7"/>
+               <head>The Popes Letter to the Clergy of <hi>France,</hi> To the Reverend Brethren, the Arch-Biſhops, Biſhops, <hi>&amp;c.</hi>
+               </head>
+               <p>IT hath been an extream grief and diſturbance to that Paternal af<g ref="char:EOLhyphen"/>fection, which we have for our dear Son <hi>Lewis,</hi> the Moſt Chriſtian King, your Churches, your ſelves, and the whole Kingdom, to under<g ref="char:EOLhyphen"/>ſtand, by your Letter to us, dated <hi>Feb.</hi> 3. that the Biſhops, and Clergy of <hi>France,</hi> which heretofore were the Crown, and joy of the Apoſtolick See, ſhould now ſo demean them<g ref="char:EOLhyphen"/>ſelves as to compel us with many tears, to uſe the ſaying of the Prophet, <hi>The Sons of my Mother have fought againſt me:</hi> though indeed you ra<g ref="char:EOLhyphen"/>ther fight againſt your ſelves, while you oppoſe us in that Cauſe, in which the Welfares and Liberties of your Church<g ref="char:EOLhyphen"/>es are involved, and in which
+<pb n="2" facs="tcp:48314:8"/>being called upon, by ſome pious and couragious men of your Order, we immediately appeared, for the defence of the Epiſcopal Rights and Dig<g ref="char:EOLhyphen"/>nity, in that Kingdom, and we have already begun to act; not regarding our own private Intereſts, but ſhall give due ſatisfaction to all the Churches, and alſo to our own care of, and Affection to<g ref="char:EOLhyphen"/>ward you.</p>
+               <p>That your ſaid Letter con<g ref="char:EOLhyphen"/>tains nothing in it, either plea<g ref="char:EOLhyphen"/>ſing to us, or worthy of your ſelves, the very beginning of it diſcovers; for, beſides what it mentions of a Rule, obſerved in calling, and holding Aſſem<g ref="char:EOLhyphen"/>blies, we take notice that it proceeds from Fear, which Gods Prieſts were never wont to chooſe for their Counſellor, in matters of Difficulty, and importance, relating to Religi<g ref="char:EOLhyphen"/>on, and Eccleſiaſtical Liber<g ref="char:EOLhyphen"/>ty, either in attacking the vali<g ref="char:EOLhyphen"/>ant, or compleating the con<g ref="char:EOLhyphen"/>ſtant; which fear you falſly ſuppoſed you could have infu<g ref="char:EOLhyphen"/>ſed into our breaſt. For the love of Chriſt, which caſts out, and drives away fear, ought always to dwell there; and with what affection our fatherly bowels have yearn<g ref="char:EOLhyphen"/>ed toward you, and the
+<pb n="3" facs="tcp:48314:8"/>Kingdom of <hi>France,</hi> hath been manifeſted by many Signal inſtances, which it will be needleſs here to inſert. But if our love merits well of you in any thing, we think it doth particularly in the buſineſs of the <hi>Regalia,</hi> on which if you ſeriouſly conſider it, the whole Dignity, and Authority of your order depends. So that you have ſeared where no fear was; whereas you ſhould only have feared the juſt cenſure both of God, and Men, for having been want<g ref="char:EOLhyphen"/>ing to your Duty, Honour, and Paſtoral Office: you ſhould often have called to mind the holy Prelates of old, whoſe examples of Epiſcopal con<g ref="char:EOLhyphen"/>ſtancy and courage, were fol<g ref="char:EOLhyphen"/>lowed by many in after ages. In ſuch caſes the lives of your Predeceſſors are propoſed for your Imitation, not only thoſe who flouriſhed in your Fathers days, but even within your own Memory. And you, who commend the ſayings of <hi>I<g ref="char:EOLhyphen"/>von Carnocenſis,</hi> ſhould alſo have imitated his acti<g ref="char:EOLhyphen"/>ons, where occaſion re<g ref="char:EOLhyphen"/>quired it; you know what he did, and ſuffered in that tur<g ref="char:EOLhyphen"/>bulent and dangerous Conten<g ref="char:EOLhyphen"/>tion, between <hi>Pope Urban,</hi> and King <hi>Philip,</hi> thinking it his
+<pb n="4" facs="tcp:48314:9"/>Duty to incur the Kings diſ<g ref="char:EOLhyphen"/>pleaſure, to be deprived of his goods, and indure impriſon<g ref="char:EOLhyphen"/>ment, and exile, while others deſerted that Righteous cauſe. It is your Duty to joyn your Endeavours with the Authori<g ref="char:EOLhyphen"/>ty of the Apoſtolick See, and with a Paſtoral heart, and Prieſtly humility, to plead the cauſe of your Churches before the King, by informing his Conſcience of the whole mat<g ref="char:EOLhyphen"/>ter, though it be with the danger of Provoking his indig<g ref="char:EOLhyphen"/>nation againſt you; that ſo you may, hereafter, be able, without bluſhing, to ſing daily the words of <hi>David, I have declared thy Teſtimonies before Kings and was not aſhamed.</hi> How much rather then ought you to have done the like, having had large experience of the Juſtice and Piety of the beſt of Kings, who (as your ſelves have written, and we with great delight, have read in your letter of his ſingular good<g ref="char:EOLhyphen"/>neſs,) hearkens to the Biſhops, favours the Churches, and preſerves the Epiſcopal Power inviolate; ſo that had you pleaded with the King in the defence of ſo juſt a Cauſe, we doubt not, either that you would have wanted words to expreſs your deſires, or he in<g ref="char:EOLhyphen"/>clinations
+<pb n="5" facs="tcp:48314:9"/>to grant them: But having, as it were, forgot your own duty, and the Kings e<g ref="char:EOLhyphen"/>quity, you have been ſilent in a buſineſs of ſo great mo<g ref="char:EOLhyphen"/>ment, and we cannot imagine upon what probable ground you ſay you were induced to it, that you were overuled in the controverſy; and that you fell in the cauſe; for how can he fall who never ſtood? Did any of you ever plead in ſo juſt, ſo weighty, and ſo ſacred a Cauſe before the King? And yet your Predeceſſors, when they were in the like danger, have many times, with great freedom, defended this Cauſe, in the preſence of former Kings of <hi>France,</hi> yea, before this very King too, and have returned victorious, bringing with them the reward of a Pa<g ref="char:EOLhyphen"/>ſtoral Office from that juſt Prince. Who among you en<g ref="char:EOLhyphen"/>ters the Liſts to fight for the Houſe of <hi>Iſrael?</hi> who dares ex<g ref="char:EOLhyphen"/>poſe himſelf to envy? who hath ſpoken ſo much as one word in memory of the An<g ref="char:EOLhyphen"/>tient Liberty? They have in<g ref="char:EOLhyphen"/>deed (as you write) ſpoken loud enough, but it was in a bad Cauſe; and when the Kings Miniſters cried aloud for the Kings Right; you in the beſt of Cauſes (<hi>viz.</hi> for the
+<pb n="6" facs="tcp:48314:10"/>Honour of Chriſt) were ſi<g ref="char:EOLhyphen"/>lent. Nor is it of any more validity that when you give us an account of (or more truly make your excuſe for) what you had done in ſuch Aſſem<g ref="char:EOLhyphen"/>blies, you aggravate the jea<g ref="char:EOLhyphen"/>louſie that the Eccleſiaſtical, and Secular Powers were like to claſh, and that great miſ<g ref="char:EOLhyphen"/>cheifs might follow thereup<g ref="char:EOLhyphen"/>on, both to Church and State, and therefore you thought it your Duty to conſider, how a ſtop might be put, to the grow<g ref="char:EOLhyphen"/>ing differences; and that none ſeem'd more Proper to you, than that which was preſcri<g ref="char:EOLhyphen"/>bed by the Fathers of the Church, <hi>viz.</hi> a wholeſome Condeſcention for moderating the Canons, according to the neceſſity of the time, when neither the verity of the <hi>Faith</hi> or honeſty of manners will be endangered thereby. Then you declare that your Order, the <hi>Gallican</hi> Church, yea, the Univerſal Church, owes very much to your renowned King, who, you ſay, has already merrited highly of the Catho<g ref="char:EOLhyphen"/>lick Religion, and ſtrives dayly to merit more; by which Act you have relinquiſhed your right, and have given it to the King. We forbear here to mention what you tell us of
+<pb n="7" facs="tcp:48314:10"/>the Secular Magiſtrate you ap<g ref="char:EOLhyphen"/>pealed to, and were overcome by him, for we deſire that the memory of that action may be oblitterated, and would have you expunge thoſe words out of your Letter, that they may not remain among the Acts of the <hi>Gallican</hi> Clergy, to the per<g ref="char:EOLhyphen"/>petual infamy of your Names. As for what you alledge in your defence, concerning <hi>In<g ref="char:EOLhyphen"/>nocent,</hi> 3. <hi>Benedicti,</hi> 12. and <hi>Bo<g ref="char:EOLhyphen"/>niface</hi> 8. Some have not been wanting, who have ſhewed you how frivolous, and fo<g ref="char:EOLhyphen"/>reign it is to this Cauſe. And it is ſo well known that it needs not to be mentioned with what Zeal and conſtancy, thoſe fa<g ref="char:EOLhyphen"/>mous Popes defended the Li<g ref="char:EOLhyphen"/>berty of the Church againſt the Secular Power, ſo farr are their examples from favouring your errour. But we freely allow, and com<g ref="char:EOLhyphen"/>mend the advice of modera<g ref="char:EOLhyphen"/>ting the diſcipline of the <hi>Ca<g ref="char:EOLhyphen"/>nons,</hi> according to the neceſſity of the times, when it may be done without any injury to Faith, and Manners; yea, I add with St. <hi>Auguſtin, That may ſometimes be allowed for the ſake of Unity, which for the ſake of equity ought to be abhorr'd.</hi> Nor are the tares to be plucked up when there is danger of pluck<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:48314:11"/>up the Corn with them. Yet this ought ſo to be under<g ref="char:EOLhyphen"/>ſtood as that it is Lawful in ſome purticular caſes only, and for a time, and when ne<g ref="char:EOLhyphen"/>ceſſity requires; as the Church did when ſhe reſtored the <hi>Ar<g ref="char:EOLhyphen"/>rians</hi> and Donatiſt Biſhops to their Churches, as ſoon as they had renounced their errours, that ſhe might keep the peo<g ref="char:EOLhyphen"/>ple, which had followed them, in their due obedience to her. But it is otherwiſe when the Diſcipline of the Church is de<g ref="char:EOLhyphen"/>ſtroyed, throughout ſo great a kingdom, without any limitati<g ref="char:EOLhyphen"/>on of time, and when there is manifeſt danger that the infecti<g ref="char:EOLunhyphen"/>on will ſpread farther, yea, the very foundation of Diſcipline, and of Eccleſiaſtical Hierarchy it ſelf is ſubverted; and this muſt needs be, if you connive at, yea conſent to thoſe things, which the moſt Chriſtian King has lately Ordered in the buſi<g ref="char:EOLhyphen"/>neſs of the <hi>Regalia,</hi> contrary to the Authority of the Sacred <hi>Ca<g ref="char:EOLhyphen"/>nons,</hi> and particularly thoſe of the General Counſel of <hi>Lyons,</hi> contrary to our mind in that affair, long ſince ſignified to you, and contrary to the very obligation of that Oath with which you bound your ſelves to God, and to the <hi>Roman,</hi> and your own Churches, when
+<pb n="9" facs="tcp:48314:11"/>you received the Epiſcopal Character. Should the Holy See, ſuffer this miſchief to be put in execution, and to get ground by farther Delays? or ſhall we not, according to the ſupream Power over the Church Univerſal, given by God to our humility and treading in the ſteps of our Predeceſ<g ref="char:EOLhyphen"/>ſors ſolemnly damn it? and the rather, ſince it plainly appears, that not only the Diſcipline of the Church is ſubverted, by the abuſe of the <hi>Regalia;</hi> but that the ſoundneſs of the <hi>Faith</hi> is alſo called in Queſtion, may eaſily be diſcovered by the very words of the King's De<g ref="char:EOLhyphen"/>crees, which claim for him that Right of conferring Be<g ref="char:EOLhyphen"/>nefices, not as being derived from any conceſſion of the Church but as connote, and coeval with the Regal Crown; but I could not, with<g ref="char:EOLhyphen"/>out extream horror of mind, read that part of your Letter, which tells us, that you have quitted your Right, and have transferred it to the King, as if you had the abſolute diſpoſal, not the Gaurdianſhip of the Churches committed to your charge, and as if the Church<g ref="char:EOLhyphen"/>es themſelves, and their Spiritu<g ref="char:EOLhyphen"/>al Rights might be ſubjected, to the yoke of Seeular Power
+<pb n="10" facs="tcp:48314:12"/>by the Biſhops, who for the Liberty thereof, ought to un<g ref="char:EOLhyphen"/>dergo the greateſt Servitude. And indeed you your ſelves confeſs this truth, by ſaying elſewhere, That the Right of the <hi>Regalia</hi> is a kind of Servi<g ref="char:EOLhyphen"/>tude, which (eſpecially as it relates to the collation of Be<g ref="char:EOLhyphen"/>nefices) cannot be impoſed, but by the Grant; or at leaſt by the conſent of the Church. By what Right then have you transferred that Right to the King? And ſince the ſacred <hi>Canons</hi> prohibit the alienation of the Rights of your Church<g ref="char:EOLhyphen"/>es, how could you bring your minds to alienate them, as if you could lawfully derogate from the authority of thoſe <hi>Canons?</hi> Remember what is what is written by your fa<g ref="char:EOLhyphen"/>mous Countrey-man, <hi>Clare<g ref="char:EOLhyphen"/>valenſis Abbas</hi> (by you deſer<g ref="char:EOLhyphen"/>vedly called the Light, not on<g ref="char:EOLhyphen"/>ly of the <hi>Gallican,</hi> but of the Univerſal Church) who admo<g ref="char:EOLhyphen"/>niſhing Pope <hi>Eugenius</hi> of his duty, tells him that, <hi>If he was the perſon, to whom the Keys and to whom the Sheep were committed, tho' there were other keepers of Heaven Gates, and Paſtors of Flocks, yet, while they had each their particular Flocks deſigned them, all of them, and they themſelves alſo, were com<g ref="char:EOLhyphen"/>mitted
+<pb n="11" facs="tcp:48314:12"/>to him alone; and that</hi> Eugenius <hi>was the ſole Shepheard, not only of the Sheep but of the Shepheards too; and therefore ac<g ref="char:EOLhyphen"/>cording to the Decrees of the</hi> Ca<g ref="char:EOLhyphen"/>nons, <hi>whereas other Biſhops were called to take part of the care, and charge, he was called to the full power.</hi> By which words, as you are admoni<g ref="char:EOLhyphen"/>ſhed of that duty and obedi<g ref="char:EOLhyphen"/>dience, which you owe to the holy See, (of which by the divine Authority we, though unworthy, are Preſident) ſo is our Paſtoral care excited, to begin at length to execute our Apoſtolick duty in this affair, which, perhaps, our too much patience, in giving ſpace for repentance, has hitherto de<g ref="char:EOLhyphen"/>fer'd; wherefore according to the Authority, given unto us by Almighty God, we do, by theſe Preſents, damn, aboliſh, and utterly make void, all that has been done by your Aſſem<g ref="char:EOLhyphen"/>bly in the buſineſs of the <hi>Regali<g ref="char:EOLhyphen"/>a,</hi> and all that has ſince enſued thereupon; together with whatſoever ſhall hereafter be done: And we do declare the ſame to be forever null and void, tho', being manifeſtly null of it ſelf, it needed no ſuch damnation, or declaration. But we hope that, upon bet<g ref="char:EOLhyphen"/>ter
+<pb n="12" facs="tcp:48314:13"/>conſideration, you your ſelves will by a voluntary re<g ref="char:EOLhyphen"/>cantarion, conſult the quiet of your own Conſciences, and the reputation of the <hi>Gallican</hi> Clergy; among whom, as there never has been, ſo I truſt, there never will be wanting, ſome, who, after the Example of <hi>the good Shepherd,</hi> will readily lay down their lives for the Sheep and for the Teſtament of their Fathers. And as for our own part we are ready, according to the duty of our Office, to offer up the Sacrifice of Righ<g ref="char:EOLhyphen"/>teouſneſs (by the aſſiſtance of the Divine Grace) and to de<g ref="char:EOLhyphen"/>fend the Rights and Liberties of God's Church, and the Au<g ref="char:EOLhyphen"/>thority, and Dignity of this Holy See; not preſuming on our own ſtrength, but expecting all from <hi>him,</hi> who ſtrengthens us, and works in us, and com<g ref="char:EOLhyphen"/>manded <hi>Peter</hi> to come to him upon the water. <hi>For the faſhion of this world paſſeth away, and the Day of the Lord is at Hand.</hi> Wherefore, Reverend Brethren, and dear Sons, let us ſo de<g ref="char:EOLhyphen"/>mean our ſelves that when the great Maſter of the Houſe<g ref="char:EOLhyphen"/>hould, and Prince of Paſtors ſhall call his Servants to an ac<g ref="char:EOLhyphen"/>count, he may not require at at our hands the Blood of his
+<pb n="13" facs="tcp:48314:13"/>afflicted and diſmembred Church, which he hath pur<g ref="char:EOLhyphen"/>chaſed with his own. In the mean time with our deareſt af<g ref="char:EOLhyphen"/>fection, and Paternal Love we ſend Apoſtolick benediction to you all, to which we pray that Gods Bleſſing may be ad<g ref="char:EOLhyphen"/>ded.</p>
+               <closer>
+                  <dateline>Dated at <hi>Rome</hi> 
+                     <date>11th. <hi>April</hi> 1682.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="part">
+            <div xml:lang="lat" type="letter">
+               <pb facs="tcp:48314:14"/>
+               <pb n="15" facs="tcp:48314:14"/>
+               <head>Proteſtatio Cleri <hi>Gal<g ref="char:EOLhyphen"/>licani.</hi>
+               </head>
+               <p>ECcleſia <hi>Gal<g ref="char:EOLhyphen"/>licana</hi> ſuis ſe regit Le<g ref="char:EOLhyphen"/>gibus, pro<g ref="char:EOLhyphen"/>priaſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> conſuetudines inviolate cuſtodit, qui<g ref="char:EOLhyphen"/>bus <hi>Gallicani</hi> Pontifi<g ref="char:EOLhyphen"/>ces, majores noſtri, nulla definitione, nul<g ref="char:EOLhyphen"/>la<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> autoritate dero<g ref="char:EOLhyphen"/>gatum eſſe voluerunt, &amp; quas ipſi ſummi Pontifices agnoſcere, &amp; laudare dignati ſunt: Prope tamen eſt, ut perfringantur leges juſtae, quas priſ<g ref="char:EOLhyphen"/>ca Galliarum Reli<g ref="char:EOLhyphen"/>gio, reverenda<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ve<g ref="char:EOLhyphen"/>tuſtas inconcaſſas fe<g ref="char:EOLhyphen"/>cerunt
+<pb n="16" facs="tcp:48314:15"/>Ecce etenim (quod ſine acerbiſſi<g ref="char:EOLhyphen"/>mo animi Senſu dici non poteſt) hiſce annis ſuperioribus, per provincias, &amp; Galliarum civitates Literae Apoſtolicae ſe<g ref="char:EOLhyphen"/>minatae ſunt, quibus antiqua <hi>Gallicanae</hi> Ec<g ref="char:EOLhyphen"/>cleſiae jura, &amp; pa<g ref="char:EOLhyphen"/>triae Inſtituta aperte violantur; ex iis ſcilicet intelligimus de Regni Eccleſiarum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> noſtra<g ref="char:EOLhyphen"/>rum negotiis, contra mores noſtros uſurpa<g ref="char:EOLhyphen"/>tam eſſe cognitionem inauditis partibus, pronuntiata Judicia; juriſdictionem Epiſco porum concultatam, deni<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> contra Cano<g ref="char:EOLhyphen"/>nes Eccleſiaſticos, &amp; contra conſuetudines illuſtriſſimae <hi>Gallicanae</hi>
+                  <pb n="17" facs="tcp:48314:15"/>Eccleſiae Metropoli<g ref="char:EOLhyphen"/>tanae gladium excom<g ref="char:EOLhyphen"/>municationis intenta<g ref="char:EOLhyphen"/>tum Eſſe.</p>
+               <p>Dolet Clerus <hi>Galli<g ref="char:EOLhyphen"/>canus,</hi> queritur<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ex his &amp; aliis quae exinde fa<g ref="char:EOLhyphen"/>cta ſunt, oppreſſas Li<g ref="char:EOLhyphen"/>bertates Eccleſiarum, pertarbatam Eccle<g ref="char:EOLhyphen"/>ſiae pacem, illatum dedecus Pontificali Ordini, Terminoſque perruptos, quos patres ſui conſtituerunt: &amp; ne officium, &amp; cauſam ſuam deſerere, aut praevaricari ſuae Dig<g ref="char:EOLhyphen"/>nitati, Eccleſiarum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſuarum cummodis videantur Publica conteſtatione obli<g ref="char:EOLhyphen"/>qui contra, &amp; in<g ref="char:EOLhyphen"/>ertis ſilentii a ſe movere culpam, de<g ref="char:EOLhyphen"/>crevit; ut exemplo
+<pb n="18" facs="tcp:48314:16"/>patrum ſuorum, in poſterum proviſum ſit, ne quid nocere poſſit, juribus, &amp; Li<g ref="char:EOLhyphen"/>bertatibus Eccleſiae <hi>Gallicanae,</hi> eoque magis inclinat in e<g ref="char:EOLhyphen"/>am ſententiam quod ſummus Pontifex <hi>In<g ref="char:EOLhyphen"/>nocentius</hi> xi. morum antiquorum, &amp; Can<g ref="char:EOLhyphen"/>nonicae Diſciplinae ſeverus actor, non patietur fieri injuri<g ref="char:EOLhyphen"/>am Decretis ſuorum Praedeceſſorum &amp; Canonibus promul<g ref="char:EOLhyphen"/>gatis, qui reſcinde<g ref="char:EOLhyphen"/>bant quidquid ſu<g ref="char:EOLhyphen"/>breptum contra pri<g ref="char:EOLhyphen"/>vata Provinciarum jura, nolebant ſi quidem Eccleſiarum privilegia, quae ſem<g ref="char:EOLhyphen"/>per conſervanda ſunt, confundi Propterea
+<pb n="19" facs="tcp:48314:16"/>Clerus idem <hi>Gallica<g ref="char:EOLhyphen"/>nus,</hi> profeſſus, antea omnem reverentiam, obedientiam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> quam ſemper exhibuit, per<g ref="char:EOLhyphen"/>petuo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> exhibiturus eſt Cathedrae <hi>Petri,</hi> in qua potentiorem ag<g ref="char:EOLhyphen"/>noſcit principatum coram C. D. <hi>Joanne Baptiſta Lauro,</hi> pro<g ref="char:EOLhyphen"/>tonotario Apoſto<g ref="char:EOLhyphen"/>lico, &amp; nuntiaturae Apoſtolicae <hi>Gallia<g ref="char:EOLhyphen"/>rum</hi> Auditore, pro<g ref="char:EOLhyphen"/>teſtari conſtituit ſi<g ref="char:EOLhyphen"/>cut de facto pro<g ref="char:EOLhyphen"/>teſtatur per praeſen<g ref="char:EOLhyphen"/>tes, ne literis Ponti<g ref="char:EOLhyphen"/>ficiis datis ad Epiſco<g ref="char:EOLhyphen"/>pum Aepamienſem, die Secunda <hi>Octobris</hi> 1680. ad Eccleſiae Ae<g ref="char:EOLhyphen"/>pamienſis Capitulim, eadem 2d a die <hi>Octobris</hi> ad Archiepiſcopum
+<pb n="20" facs="tcp:48314:17"/>Toloſanum die Pri<g ref="char:EOLhyphen"/>ma <hi>Januarii</hi> 1681. ad Moniales, ſeu Canonicas Regulares Congregationis, <hi>B. M. <g ref="char:V">Ʋ</g>.</hi> Monaſtterii de Charonna die 7. <hi>Auguſti,</hi> &amp; 15. <hi>Octobris,</hi> vel aliis exin<g ref="char:EOLhyphen"/>da, <hi>&amp;</hi> illiarum virtute actis, <hi>&amp;</hi> ſecutis quibuſcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> dam<g ref="char:EOLhyphen"/>num aliquod, ſeu prae<g ref="char:EOLhyphen"/>judicium juribus Ec<g ref="char:EOLhyphen"/>cleſiae <hi>Gallicanae</hi> fieri poſſit, neve ejus in aliis locis, <hi>&amp;</hi> Tem<g ref="char:EOLhyphen"/>poribus hoc in ex<g ref="char:EOLhyphen"/>emplum, <hi>&amp;</hi> Autho<g ref="char:EOLhyphen"/>ritatem trahat, ut antiquos Eccleſiae Canones avitas Reg<g ref="char:EOLhyphen"/>ni conſuetudines re<g ref="char:EOLhyphen"/>ceptoſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> mores Eccle<g ref="char:EOLhyphen"/>ſiae <hi>Gallicanae</hi> op<g ref="char:EOLhyphen"/>pugnare audeat, aut
+<pb n="21" facs="tcp:48314:17"/>propterea quidquam ſibi licere exiſtimet; Immo vero nemo neſciat hoc nihil ob<g ref="char:EOLhyphen"/>ſtare quo minus Ca<g ref="char:EOLhyphen"/>nones, conſuetudines Jura, &amp; Libertates ejuſdem Eccleſiae priſtimam vim, &amp; Authoritatem reti<g ref="char:EOLhyphen"/>neant, &amp; cuſtodiant. Hoc clerus <hi>Gallicanus</hi> ſibi, ſuis<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> privilegiis cautum, conſultum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> volens, &amp; omnibus notum eſſe, ne quis ignorantiae cauſam praetexat. Datum Comitiis Generalibus Cleri <hi>Gallicani</hi> Lute<g ref="char:EOLhyphen"/>tiae habitis, Anno Do<g ref="char:EOLhyphen"/>mini, 1682. Die vero Sexta menſis <hi>Maii.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <pb n="15" facs="tcp:48314:14"/>
+               <head>The Proteſtation of the <hi>Gallican</hi> Cler<g ref="char:EOLhyphen"/>gy.</head>
+               <p>THE <hi>Galli<g ref="char:EOLhyphen"/>can</hi> Church is Govern'd by her own Laws, and keeps in<g ref="char:EOLhyphen"/>violate her own Cu<g ref="char:EOLhyphen"/>ſtoms, which the <hi>Gal<g ref="char:EOLhyphen"/>lican</hi> Prelates, our Anceſtors, would not in the leaſt ſuffer to be infring'd by any De<g ref="char:EOLhyphen"/>cree, or Authority what<g ref="char:EOLhyphen"/>ſoever, and which the Popes themſelves have vouchſafed to ac<g ref="char:EOLhyphen"/>knowledge and com<g ref="char:EOLhyphen"/>mend: Yet now thoſe juſt Laws, which the Old Gallican Religion,
+<pb n="16" facs="tcp:48314:15"/>and venerable Anti<g ref="char:EOLhyphen"/>quity had made unal<g ref="char:EOLhyphen"/>terable, are like to be deſtroyed; for (which cannot be mention'd without great trouble of mind) theſe laſt preceding years, A<g ref="char:EOLhyphen"/>poſtolick Letters have been diſperſ'd through the ſeveral Provinces, and Cities of <hi>France,</hi> by which the Ancient Rights of the <hi>Gallican</hi> Church, and ſtatutes of our Country are openly violated; for by them we find, that, contrary to our uſages, cogniſance of the af<g ref="char:EOLhyphen"/>fairs both of our Kingdom, and Church<g ref="char:EOLhyphen"/>es, has been uſurped, ſentence pronounced, without hearing the parties concerned, the
+<pb n="17" facs="tcp:48314:15"/>Juriſdiction of the Biſhops trampled on, and in fine the Sword of Excomunication drawn, contrary to the Eccleſiaſtical Ca<g ref="char:EOLhyphen"/>nons, and Cuſtoms of the famous <hi>Galican Metropolitan</hi> Church.</p>
+               <p>Now the <hi>Gallican</hi> Clergy are troubled, and complain that by rea<g ref="char:EOLhyphen"/>ſon of theſe, and other things done ſince, the Liberties of their Churches are oppreſſ'd the peace of the Church diſturb'd the pontifi<g ref="char:EOLhyphen"/>cal Order diſgrac'd, and the bounds fix'd by their Anceſtors, Tranſ<g ref="char:EOLhyphen"/>greſ'd: And that they may not be thought to abandon their Cauſe, and Duty, or betray their Dignity,
+<pb n="18" facs="tcp:48314:16"/>and the profits of their Churches, they have determined openly to declare againſt theſe things by a publick Proteſtation, and thereby to remove from themſelves the ſcandal of a baſe and cowardly ſilence, that ſo, according to the example of their Fa<g ref="char:EOLhyphen"/>thers, they may provide that hereafter nothing may be able to in<g ref="char:EOLhyphen"/>jure the Rights, and Liberties of the <hi>Gal<g ref="char:EOLhyphen"/>lican</hi> Church; and they do the rather incline to this opi<g ref="char:EOLhyphen"/>nion, becauſe Pope <hi>Innocent</hi> xi. being a ſtrict executor of antient Cuſtoms, and Canonical Diſcipline will not ſuffer any
+<pb n="19" facs="tcp:48314:16"/>injury to be done to the Decrees of his Prede<g ref="char:EOLhyphen"/>ceſſors, and thoſe pub<g ref="char:EOLhyphen"/>lick <hi>Canons</hi> which made void whatſoever had crept in, contra<g ref="char:EOLhyphen"/>ry to the private Rights of the Provin<g ref="char:EOLhyphen"/>ces; for they would not permit the privi<g ref="char:EOLhyphen"/>ledges of the Churches to be confounded which ought always to be preſerved. Wherefore the ſaid <hi>Gallican</hi> Clergy having firſt pro<g ref="char:EOLhyphen"/>feſſed all due Reverence and Obedience, which they ever have paid, and ever will pay, to St. <hi>Peters</hi> See where they acknowledge a greater Power re<g ref="char:EOLhyphen"/>ſides) have deter<g ref="char:EOLhyphen"/>mined to Declare and proteſt and by theſe Pre<g ref="char:EOLhyphen"/>ſents
+<pb n="20" facs="tcp:48314:17"/>do Declare and Proteſt, in the pre<g ref="char:EOLhyphen"/>ſence of the moſt Noble Lord <hi>Joannes Baptiſta Laurus,</hi> Apoſtolick Protonotary, and Au<g ref="char:EOLhyphen"/>ditor of the Apoſtolick Legation in <hi>France,</hi> that, neither the Popes Letters to the Biſhop of <hi>Pamiez</hi> Dated <hi>October</hi> the 2d. <hi>1680.</hi> to the Chapter of the Church of <hi>Pa<g ref="char:EOLhyphen"/>miez</hi> the ſame day, to the Arch Biſhop of <hi>Tholouſe, January</hi> the <hi>1. 1681,</hi> to the Nuns, or Female Ca<g ref="char:EOLhyphen"/>nonical Regulars, of the Congregation of the Bleſſed Virgin <hi>Mary</hi> in the Monaſtery of Charonne <hi>Auguſt</hi> the 7th, and <hi>15. Octo<g ref="char:EOLhyphen"/>ber,</hi> or by any others
+<pb n="21" facs="tcp:48314:17"/>ſince, or by any things acted, or done by Vertue of the ſame, the leaſt Damage, or prejudice whatſoever can accrew to the Rights of the <hi>Gal<g ref="char:EOLhyphen"/>lican</hi> Church; nor can he, at other places, and times, draw this into Precedent, and Authority, that he ſhould thereby preſume to oppoſe the Ancient <hi>Canons</hi> of the Church, Cuſtoms of the King<g ref="char:EOLhyphen"/>dom, and the receiv'd uſages of the <hi>Gallican</hi> Church, or that there<g ref="char:EOLhyphen"/>fore he ſhould think that he may do what he liſts. On the con<g ref="char:EOLhyphen"/>trary, let all Men know that this doth not at all hinder the <hi>Canons,</hi> Cuſtoms, Rights, and
+<pb n="22" facs="tcp:48314:18"/>Liberties of the ſaid Church, from retaining and keeping their An<g ref="char:EOLhyphen"/>tient force, and Au<g ref="char:EOLhyphen"/>thority, the <hi>Gallican</hi> Clergy having thus provided for, and ſe<g ref="char:EOLhyphen"/>cured themſelves, and their Priveledges, do Will, and Require that theſe Preſents be made publick that ſo no Man may pretend Igno<g ref="char:EOLhyphen"/>rance.</p>
+               <closer>
+                  <dateline>Dated in the General Aſſembly of the <hi>Gallican</hi> Cler<g ref="char:EOLhyphen"/>gy at <hi>Paris,</hi> 
+                     <date>
+                        <hi>May</hi> the 6th. <hi>1682.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+            <pb facs="tcp:48314:18"/>
+         </div>
+      </body>
+   </text>
+</TEI>
